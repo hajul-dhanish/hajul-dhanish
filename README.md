@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhanish</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajul-dhanish&label=Profile%20views&color=0e75b6&style=flat" alt="hajul-dhanish" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Native SDKs**
 
 - 📫 How to reach me **dhanish.mohdn@gmail.com**
 
-- ⚡ Fun fact **Minoto > all other hokages**
+- ⚡ Fun fact **Jetpack compose >>> XML**
 
 <p align="left">
 </p>
