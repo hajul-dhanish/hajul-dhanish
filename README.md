@@ -12,8 +12,6 @@
 <p align="left">
 </p>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajul-dhanish&show_icons=true&locale=en&layout=compact" alt="hajul-dhanish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajul-dhanish&show_icons=true&locale=en" alt="hajul-dhanish" /></p>
