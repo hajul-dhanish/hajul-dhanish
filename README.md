@@ -13,5 +13,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajul-dhanish&show_icons=true&locale=en" alt="hajul-dhanish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajul-dhanish&" alt="hajul-dhanish" /></p>
