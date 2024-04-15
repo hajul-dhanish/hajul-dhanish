@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **dhanish.mohdn@gmail.com**
 
-- ⚡ Fun fact **Jetpack compose >>> XML**
+- ⚡ Fun fact **Add commas to you passwords to disrupt the formatting if they get dumped to a CSV file**
+
+- 💀 **~~Dark~~ Dart humour**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hajul_dhanish)
 
