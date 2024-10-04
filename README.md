@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhanish.mohdn@gmail.com**
 
-- ⚡ Fun fact **Add commas to you passwords to disrupt the formatting if they get dumped to a CSV file**
+- ⚡ Fun fact **Add commas to your passwords to disrupt the formatting if they get dumped to a CSV file**
 
 - 💀 **~~Dark~~ Dart humour**
 
