@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Native SDKs**
 
-- 📫 How to reach me **dhanish.mohdn@gmail.com**
+- 📫 How to reach me **haja.dhanish@gmail.com**
 
 - ⚡ Fun fact **Add commas to your passwords to disrupt the formatting if they get dumped to a CSV file**
 
