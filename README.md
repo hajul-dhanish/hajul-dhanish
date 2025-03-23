@@ -10,9 +10,12 @@
 
 - 💀 **~~Dark~~ Dart humour**
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hajul_dhanish)
-
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajul-dhanish&show_icons=true&locale=en" alt="hajul-dhanish" /></p>
+## 📊 GitHub Stats:
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hajul-dhanish&theme=radical" />
+
+
+
+
